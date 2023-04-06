@@ -1,3 +1,3 @@
 # WEATHER
 
-Visit the site this [link](ttps://harshp09.github.io/WEATHER/)
+Visit the site this [link](https://harshp09.github.io/WEATHER/)
